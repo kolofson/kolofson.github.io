@@ -6,6 +6,10 @@ h1 {
 	font-family: 'Josefin Sans', sans-serif;
 }
 
+h2 {
+	text-decoration: underline;
+}
+
 img {
 	width: 90px;
 	height: 100px;
@@ -15,3 +19,17 @@ img {
 	right: 0;
 }
 
+ul {
+	list-style: inside;
+}
+
+li {
+	color: white;
+}
+
+#pythonBack {
+	background-color: grey;
+	width: 40%;
+	border: 5px solid black;
+	border-radius: 25%;
+}
