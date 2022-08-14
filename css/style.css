@@ -28,6 +28,12 @@ li {
 	color: white;
 }
 
+p {
+	text-align: center;
+	color: yellow;
+	font-size: 12pt;
+}
+
 #pythonBack {
 	background-color: grey;
 	width: 40%;
