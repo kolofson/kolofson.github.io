@@ -40,3 +40,14 @@ p {
 	border: 5px solid black;
 	border-radius: 25%;
 }
+
+.footer {  
+	position: fixed;  
+	left: 10px;  
+	bottom: 5px;  
+	right: 10px;   
+	width: 95%;  
+	background-color: gray;  
+	color: white;  
+	text-align: center;  
+} 
