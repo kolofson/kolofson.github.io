@@ -31,7 +31,8 @@ li {
 p {
 	text-align: center;
 	color: yellow;
-	font-size: 12pt;
+	font-size: 16pt;
+	width: 40%;
 }
 
 #pythonBack {
